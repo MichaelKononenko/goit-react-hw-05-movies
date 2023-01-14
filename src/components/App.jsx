@@ -8,9 +8,7 @@ import {Reviews} from "../pages/Reviews";
 import { Query } from "pages/Query";
 import { SharedLayout } from "./SharedLayout";
 
-
 // const API_KEY = '7653694c4941db1f3bfb7af19c86b9a8';
-
 
 export const App = () => {
   return (
